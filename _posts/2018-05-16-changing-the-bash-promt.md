@@ -43,7 +43,7 @@ Which yields an updated prompt along the lines of:
 Setting the PS1 variable in the above fashion will apply the change to your current shell only. Edit the \*rc file to apply the new prompt to each new shell going forward.
 
 
-````
+```
 echo "export PS1=\"\n[\w]\n>> \" " >> ~/.bashrc
 
 ```
