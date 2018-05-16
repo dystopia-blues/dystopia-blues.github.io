@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Customizing the BASH Shell Prompt
+tags: [ bash, shell-customization ]
 ---
 
 ## Customizing the BASH Shell Prompt
