@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Installing the RISC-V Tools
 tags: [ RISC-V, Assembly ]
 ---
